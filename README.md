@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya</h1>
-<h3 align="center">A computer science student who wnats to create</h3>
+<h3 align="center">A computer science student who wants to create</h3>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 I’m currently learning Full Stack Development. 
