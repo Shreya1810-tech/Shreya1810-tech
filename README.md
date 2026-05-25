@@ -3,7 +3,7 @@
 <img align="right" height="150" src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif"  />
 
 <h3>A little bit about me: </h3>
-I am currently learning full stack development and DSA concepts. Coffee doesn't work on me, so I usually have to rawdog through the night. I love baking and trying out other hobbies. Working on small projects now, hope to build something that helps the world one day!
+I am currently learning AI, full stack development and DSA concepts. Coffee doesn't work on me, so I usually have to rawdog through the night. I love baking and trying out other hobbies. Working on small projects now, hope to build something that helps the world one day!
 
 
 
